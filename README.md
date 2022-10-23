@@ -1,1 +1,1 @@
-# WordpressShop
+# Wordpress Shop App
